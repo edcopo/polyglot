@@ -1,3 +1,5 @@
-# polyglot
+# Polyglot
 
-## This repo act as all experimental work in progress , do not take it serious
+## This repo act as experimental work in progress , do not take it serious
+
+It contain multiple programming language under central repo 
